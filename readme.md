@@ -25,10 +25,10 @@ These variables are just for demonstration and shouldn't be used in production s
 ### 4. Run `npm run start` in the root directory of the project
 
 ### Note
-> Everytime the demo is run `sequelize` will drop the existing table and create a new one, this is avoid writing `CREATE TABLE` queries and can be disabled easily in production
+> Everytime the demo is run `sequelize` will drop the existing table and create a new one, this is to avoid writing `CREATE TABLE` queries and can be disabled easily in production
 
 
-## Endpoints
+## Endpoints [(Postman Collection)](https://github.com/viconx98/cms_api_demo/blob/master/CMS_demo_postman_collection.json)
 ### POST /auth/register
 Request Body
 
