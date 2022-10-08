@@ -24,6 +24,8 @@ These variables are just for demonstration and shouldn't be used in production s
 
 ### 4. Run `npm run start` in the root directory of the project
 
+### 5. The server can then be accessed at `http://localhost:3001`
+
 ### Note
 > Everytime the demo is run `sequelize` will drop the existing table and create a new one, this is to avoid writing `CREATE TABLE` queries and can be disabled easily in production
 
